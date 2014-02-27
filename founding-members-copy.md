@@ -1,5 +1,18 @@
 #Copy and content provided by founding members about their work
 
+John Sindelar
+SeedCode
+tel 855-733-3263
+http://www.seedcode.com
+
+URLs: http://wwwseedcode.com, http://www.dayback.com
+Twitter: @seedcode
+
+Blurb: SeedCode is the leading extensions developer for FileMaker Pro, the cross platform database and app creation environment from Apple. Our award winning calendar, mapping, and sync apps help developers add sophisticated interfaces to their projects. We're taking those 10 years of calendar experience and launching out first mainstream calendar app: a *very* early build is at http://www.dayback.com
+DayBack provides a new interface for Google Calendar (and soon for other data sources as well)--an interface that borrows metaphors from project management, not from the agricultural past informing most calendar designs. We then put a database behind it so you can tag, link, and *work* with your events. DayBack transforms your calendar from an appointment book to a planning tool.
+
+We don't work like 19th century farmers, so don't use their calendar to plan your life. DayBack takes calendars out of the preindustrial past and let's you carve out time to accomplish what's most important. Life can be something that happens to you, but it doesn't have to be. You may be surprised at what happens when you realize you've got time. It's time for a radically new calendar.
+
 =====================
 
 ###Name & Title.
